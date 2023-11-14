@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cocktails</string>
+    <string name="cocktail_bloody_mary">Bloody Mary</string>
+    <string name="cocktail_bloody_mary_description">The bloody mary is an icon in the cocktail world. Created in the 1920s, this vodka-spiked tomato cocktail developed into a favorite brunch drink and became well-known as a hangover remedy.</string>
+    <string name="cocktail_sangria">Sangria</string>
+    <string name="cocktail_sangria_description">test</string>
+    <string name="cocktail_cosmopolitan">Cosmopolitan</string>
+    <string name="cocktail_cosmopolitan_description">test</string>
+    <string name="cocktail_negroni">Negroni</string>
+    <string name="cocktail_negroni_description">test</string>
+    <string name="expand_button_content_description">See more or less information about a drink.</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="preparation">Preparation:</string>
+</resources>
